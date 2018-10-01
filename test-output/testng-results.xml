@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3194" started-at="2018-09-07T08:32:03Z" finished-at="2018-09-07T08:32:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3194" started-at="2018-09-07T08:32:03Z" finished-at="2018-09-07T08:32:06Z">
+      <class name="com.qainfotech.com.RestAssuredJSONTesting.RestAssuredJson">
+        <test-method status="PASS" signature="isBothJsonFileParsed()[pri:0, instance:com.qainfotech.com.RestAssuredJSONTesting.RestAssuredJson@523884b2]" name="isBothJsonFileParsed" duration-ms="3169" started-at="2018-09-07T08:32:03Z" finished-at="2018-09-07T08:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isBothJsonFileParsed -->
+        <test-method status="PASS" signature="isIDAndUserIDSame()[pri:0, instance:com.qainfotech.com.RestAssuredJSONTesting.RestAssuredJson@523884b2]" name="isIDAndUserIDSame" duration-ms="1" started-at="2018-09-07T08:32:06Z" finished-at="2018-09-07T08:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isIDAndUserIDSame -->
+        <test-method status="PASS" signature="isUserIDHave20Replication()[pri:0, instance:com.qainfotech.com.RestAssuredJSONTesting.RestAssuredJson@523884b2]" name="isUserIDHave20Replication" duration-ms="0" started-at="2018-09-07T08:32:06Z" finished-at="2018-09-07T08:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isUserIDHave20Replication -->
+      </class> <!-- com.qainfotech.com.RestAssuredJSONTesting.RestAssuredJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
